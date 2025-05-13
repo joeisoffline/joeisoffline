@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from Canada</h3>
 
-<p align="center"> I’m currently working on **The Odin Project** and fine tuning my skills.
+<p align="center"> I’m currently working on **The Odin Project** and fine tuning my development skills
 
 <p align="center"> Ask me about: travel, food, cars, F1
 
