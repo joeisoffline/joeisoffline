@@ -1,4 +1,4 @@
-<h3 align="center">Heyo! I'm a passionate developer from Canada</h3>
+<h3 align="center">Hi! I'm a passionate developer from Canada</h3>
 
 <p align="center"> I’m currently working on **The Odin Project** and fine tuning my development skills
 
