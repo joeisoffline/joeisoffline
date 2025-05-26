@@ -1,6 +1,6 @@
 <h3 align="center">Joseph M</h3>
 
-<p align="center"> I’m currently working on fine tuning my development skills and dabbling on some **The Odin Project** 
+<p align="center"> I’m currently working on my development skills and dabbling on some **The Odin Project** 
 
 <p align="center"> Ask me about: travel, food, cars, F1
 
