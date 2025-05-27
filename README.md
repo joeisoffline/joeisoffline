@@ -1,4 +1,4 @@
-<h3 align="center">Joseph M</h3>
+<h3 align="center">Joseph</h3>
 
 <p align="center"> Currently working on my development skills and dabbling on some **The Odin Project** 
 
