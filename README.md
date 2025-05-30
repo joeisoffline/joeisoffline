@@ -1,6 +1,6 @@
-<h3 align="center">Joseph</h3>
+<h3 align="center">Joe</h3>
 
-<p align="center"> Currently working on my development skills and dabbling on some **The Odin Project** 
+<p align="center"> Learning to build some cool stuff and dabbling on some **Odin Project** 
 
 <p align="center"> Ask me about: travel, food, cars, F1
 
