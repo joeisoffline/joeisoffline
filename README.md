@@ -1,6 +1,6 @@
 <h3 align="center">Joe</h3>
 
-<p align="center"> Learning to build some cool stuff and dabbling on some **Odin Project** 
+<p align="center"> Learning to build some cool stuff and dabbling on the **Odin Project** 
 
 <p align="center"> Ask me about: travel, food, cars, F1
 
