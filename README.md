@@ -1,4 +1,4 @@
-<h3 align="center">Joe</h3>
+<h3 align="center">Hi, Joe here!</h3>
 
 <p align="center"> Learning to build some cool stuff and dabbling on the **Odin Project** 
 
