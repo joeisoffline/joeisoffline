@@ -9,13 +9,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=joeisoffline&theme=darkhub" alt="joeisoffline trophies" />
   </a>
 </p>
-<br>
-<p align="left">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joeisoffline&show_icons=true&locale=en&theme=dark" alt="joeisoffline stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joeisoffline&show_icons=true&locale=en&layout=compact&theme=dark" alt="joeisoffline top languages" />
 </p>
-<br>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=joeisoffline&show_icons=true&locale=en&theme=dark" alt="joeisoffline stats" />
-</p>
-
-<!-- Optionally, add social icons or fun facts here! -->
