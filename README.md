@@ -1,4 +1,4 @@
-<h3 align="center">I'm Joe! 👋</h3>
+<h3 align="center">Hi, I'm Joe! 👋</h3>
 
 <p align="center">
   <b>Learning to build cool things & dabbling with The Odin Project</b><br>
