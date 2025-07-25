@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Learning to build cool things & dabbling with The Odin Project!</b><br>
+  <b>Learning to build cool things & dabbling with The Odin Project</b><br>
 </p>
 
 <p align="center">
