@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Learning and building cool things!</b><br>
+  <b>Learning to building cool things!</b><br>
 </p>
 
 <p align="center">
