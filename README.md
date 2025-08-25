@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Building cool things!</b><br>
+  <b>✌️</b><br>
 </p>
 <!-- 
 <p align="center">
